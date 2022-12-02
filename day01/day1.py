@@ -19,7 +19,7 @@ def readFileToList(filename):
 
 readFileToList("input.txt")
 
-print("Max cal is: " + str(max(elves)))
+print("Max cal is:  " + str(max(elves)))
 
 
 def listTopThree(list):
